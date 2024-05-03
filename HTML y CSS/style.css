@@ -1,0 +1,84 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 16px;
+}
+
+.padre-elemento {
+    padding: 0 4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around
+}
+
+.hijo-elemento {
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+    color:black;
+    margin: 1rem 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2.5rem;
+}
+.boton{
+    background-color: rgba(251,89,50,255);
+    margin: 0 .6rem;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    text-decoration: none;
+    color: #ffe545;
+}
+
+.hijo-elemento .enlace{
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+    color: #fc8939;
+}
+
+#option-font {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.padre-informacion {
+    padding: 0 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1.5rem;
+}
+
+.imagen1 {
+    border-radius: 2rem;
+}
+
+.informacion {
+    font-family: 'Ubuntu', sans-serif;
+    color: rgba(251,89,50,255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.informacion p {
+    color: black;
+}
+
+.informacion h1 p {
+    padding: 1rem;
+}
+
+.parrafo {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.Nuestra-comunidad {
+    font-family:'Ubuntu Condensed', sans-serif;
+    color: rgba(251,89,50,255);
+    display: flex;
+    justify-content: center;
+}
