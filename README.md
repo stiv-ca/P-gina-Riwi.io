@@ -1,2 +1,2 @@
-# P-gina-Riwi.io
+# Pagina-Riwi.io
 Repositorio sobre la realización de la página web de Riwi.io
